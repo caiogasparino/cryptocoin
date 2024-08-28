@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "BinanCrypto",
+    "slug": "binanCrypto",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#4B8E96",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4B8E96"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.caiodeveloper.binanCrypto"
+    },
+    "ios": {
+      "bundleIdentifier": "com.caiodeveloper.binanCrypto"
+    }
+  }
+}
